@@ -1,0 +1,36 @@
+.flex {
+    display: flex;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.items-center {
+    align-items: center;
+}
+.flex-col {
+    flex-direction: column;
+}
+.pl-20 {
+    padding-left: 20px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-16 {
+    margin-left: 16px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
+.flex-end {
+    justify-content: flex-end;
+}
+.line {
+    height: 1px;
+    margin: 10px;
+    background-color: var(--black-38);
+}
+
